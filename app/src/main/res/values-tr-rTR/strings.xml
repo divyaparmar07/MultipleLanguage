@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Çoklu Dil</string>
+    <string name="show_toast">Tost mesajı göster</string>
+    <string name="hello">" Selam Dünya"</string>
+    <string name="toast">Bu bir kadeh kaldırma mesajıdır</string>
+</resources>
